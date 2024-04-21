@@ -3,8 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Zaid Asfi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kajalkolhe5959&label=Profile%20views&color=0e75b6&style=flat](https://th.bing.com/th?id=OIP.VMmvImch6VU5pc2VktY1uwHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2)" alt="Zaid Asfi" /> </p>
+<img align="right" alt="Coding" src="[https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkolhe5959&label=Profile%20views&color=0e75b6&style=flat" alt="ZaidAsfi02" /> </p>
+
+
 
 - 🌱 I’m currently learning **SpringBoot ,React**
 
