@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Zaid Asfi</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="Coding" src="[https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif](https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif)" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalkolhe5959&label=Profile%20views&color=0e75b6&style=flat" alt="ZaidAsfi02" /> </p>
+<img align="right" alt="Coding" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif" width="400">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidasfi02&label=Profile%20views&color=0e75b6&style=flat" alt="ZaidAsfi02" /> </p>
 
 
 
