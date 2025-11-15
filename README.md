@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SpringBoot ,React**
 
-- 📫 How to reach me **zaidasfi02@gmail.com**
+- 📫 How to reach me **zaidasfi1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
